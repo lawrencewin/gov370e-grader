@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gov370e-grader/static/css/main.ba438a28.chunk.css",
+    "main.js": "/gov370e-grader/static/js/main.abb3f2cf.chunk.js",
+    "main.js.map": "/gov370e-grader/static/js/main.abb3f2cf.chunk.js.map",
+    "runtime-main.js": "/gov370e-grader/static/js/runtime-main.95e3ab0d.js",
+    "runtime-main.js.map": "/gov370e-grader/static/js/runtime-main.95e3ab0d.js.map",
+    "static/js/2.7f6cd994.chunk.js": "/gov370e-grader/static/js/2.7f6cd994.chunk.js",
+    "static/js/2.7f6cd994.chunk.js.map": "/gov370e-grader/static/js/2.7f6cd994.chunk.js.map",
+    "index.html": "/gov370e-grader/index.html",
+    "static/css/main.ba438a28.chunk.css.map": "/gov370e-grader/static/css/main.ba438a28.chunk.css.map",
+    "static/js/2.7f6cd994.chunk.js.LICENSE.txt": "/gov370e-grader/static/js/2.7f6cd994.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95e3ab0d.js",
+    "static/js/2.7f6cd994.chunk.js",
+    "static/css/main.ba438a28.chunk.css",
+    "static/js/main.abb3f2cf.chunk.js"
+  ]
+}
